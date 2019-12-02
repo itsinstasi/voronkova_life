@@ -1,5 +1,5 @@
 ﻿User-agent: *
-Sitemap: https://voronkova-life.itsinsta.site/sitemap.xml
+Sitemap: https://valery21gal.itsinsta.site/sitemap.xml
 Disallow: /main.html
 Disallow: /main
 Disallow: /stories.html
